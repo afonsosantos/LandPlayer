@@ -1,2 +1,2 @@
 # LandPlayer
-Reprodutor de multimédia, escrito em C#
+Reprodutor de multimédia básico, escrito em C#
